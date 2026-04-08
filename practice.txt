@@ -1,4 +1,2 @@
-Hello
-feature-branchでの作業です
-aaaaaaaa
-step2 last
+プルリクエスト練習中：2026年 4月 8日 水曜日 16時46分15秒 JST
+rennshuu
